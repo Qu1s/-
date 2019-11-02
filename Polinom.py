@@ -1,5 +1,5 @@
-# N = [int(i) for i in input("Enter a number, for example 01011011:")]
-N = [1, 1, 1, 0, 1, 0, 1, 0]
+N = [int(i) for i in input("Enter a number, for example 01011011:")]
+#N = [1, 1, 1, 0, 1, 0, 1, 0]
 
 #Pascal's empty triangle generation
 B = [[0]*(len(N)-i) for i in range(len(N))]
