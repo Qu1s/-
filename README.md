@@ -1,2 +1,2 @@
-# Polynom
-Hi, GitHub, it's my first project, than can calculate polynom in two different ways :)
+# Py3_Staffs
+Hi, GitHub, it's my repository for Python3 small scripts 
